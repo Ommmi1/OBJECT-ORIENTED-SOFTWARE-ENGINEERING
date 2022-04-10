@@ -1,0 +1,4 @@
+Enquiry(view,reservation/cancel,vacating)
+biling
+restraunt
+reporting
